@@ -1,18 +1,18 @@
 h1 {
     font-size: ;
-    font-family: ;
-    padding: ;
+    font-family:fantasy;
+    padding: 10px;
     margin: ;
     font-weight: ;
     text-decoration: ;
     color: ;
-    background-color: ;
+    background-color:rgb(229, 215, 215) ;
 }
 
 h2 {
     font-size: ;
-    font-family: ;
-    padding: ;
+    font-family: sans-serif ;
+    padding: 20px ;
     margin: ;
     font-weight: ;
     color: ;
@@ -22,7 +22,7 @@ h2 {
 p {
     font-family: ;
     font-size: ;
-    padding: ;
+    padding: 20px;
     margin: ;
     color: ;
     background-color: ;
@@ -30,8 +30,14 @@ p {
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: burlywood;
+    height: 1000px;
     width: ;
 }
+
+.story-box{
+    margin: auto;
+    background: rgb(223, 247, 255);
+    width: 66%;
+  }
